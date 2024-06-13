@@ -1,0 +1,249 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Modern Living Room",
+      "image": "https://images.pexels.com/photos/2343465/pexels-photo-2343465.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "style": "Minimalist",
+      "popularity": 5,
+      "tags": ["living room", "modern", "bright", "spacious", "minimalist"],
+      "dateAdded": "2024-06-01"
+    },
+    {
+      "id": 2,
+      "name": "Cozy Bedroom",
+      "image": "https://images.pexels.com/photos/1329711/pexels-photo-1329711.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "style": "Contemporary",
+      "popularity": 4,
+      "tags": ["bedroom", "cozy", "warm", "comfortable", "intimate"],
+      "dateAdded": "2024-05-25"
+    },
+    {
+      "id": 3,
+      "name": "Minimalist Bedroom",
+      "image": "https://images.pexels.com/photos/13067768/pexels-photo-13067768.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "style": "Minimalist",
+      "popularity": 3,
+      "tags": ["bedroom", "minimalist", "clean", "simple", "functional"],
+      "dateAdded": "2024-05-20"
+    },
+    {
+      "id": 4,
+      "name": "Classic Home Office",
+      "image": "https://images.pexels.com/photos/2883049/pexels-photo-2883049.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "style": "Modern",
+      "popularity": 4,
+      "tags": ["home office", "classic", "elegant", "traditional", "organized"],
+      "dateAdded": "2024-06-03"
+    },
+    {
+      "id": 5,
+      "name": "Vintage Living Room",
+      "image": "https://images.pexels.com/photos/5824520/pexels-photo-5824520.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "style": "Vintage",
+      "popularity": 1,
+      "tags": ["living room", "vintage", "retro", "classic", "nostalgic"],
+      "dateAdded": "2024-06-02"
+    },
+    {
+      "id": 6,
+      "name": "Minimalist Bathroom",
+      "image": "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YmF0aHJvb218ZW58MHx8MHx8fDA%3D",
+      "style": "Minimalist",
+      "popularity": 2,
+      "tags": ["bathroom", "minimalist", "classic", "warm", "elegant"],
+      "dateAdded": "2024-05-23"
+    },
+    {
+      "id": 7,
+      "name": "Contemporary Living Room",
+      "image": "https://images.unsplash.com/photo-1611094016919-36b65678f3d6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29udGVtcG9yYXJ5JTIwbGl2aW5nJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+      "style": "Contemporary",
+      "popularity": 4,
+      "tags": ["living room", "contemporary", "elegant"],
+      "dateAdded": "2024-01-05"
+    },
+    {
+      "id": 8,
+      "name": "Contemporary Dining Room",
+      "image": "https://images.unsplash.com/photo-1633505412556-82c0921e8f4a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGRpbmluZyUyMHJvb218ZW58MHx8MHx8fDA%3D",
+      "style": "Contemporary",
+      "popularity": 1,
+      "tags": ["dining room", "contemporary", "modern", "sleek", "stylish"],
+      "dateAdded": "2024-05-30"
+    },
+    {
+      "id": 9,
+      "name": "Modern Bathroom",
+      "image": "https://images.pexels.com/photos/342800/pexels-photo-342800.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "style": "Modern",
+      "popularity": 4,
+      "tags": ["bathroom", "modern", "sleek", "functional", "contemporary"],
+      "dateAdded": "2024-05-27"
+    },
+    {
+      "id": 10,
+      "name": "Rustic Living Room",
+      "image": "https://images.unsplash.com/photo-1611589694870-377ee3903be0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dmludGFnZSUyMGxpdmluZyUyMHJvb218ZW58MHx8MHx8fDA%3D",
+      "style": "Vintage",
+      "popularity": 3,
+      "tags": ["living room", "rustic", "vintage", "natural", "cozy", "warm"],
+      "dateAdded": "2024-06-24"
+    },
+    {
+      "id": 11,
+      "name": "Scandinavian Kitchen",
+      "image": "https://images.unsplash.com/photo-1600585152220-90363fe7e115?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c2NhbmRpbmF2aWFuJTIwa2l0Y2hlbnxlbnwwfHwwfHx8MA%3D%3D",
+      "style": "Minimalist",
+      "popularity": 2,
+      "tags": ["kitchen", "scandinavian", "bright", "minimalist", "functional"],
+      "dateAdded": "2024-06-16"
+    },
+    {
+      "id": 12,
+      "name": "Luxury Living Room",
+      "image": "https://images.pexels.com/photos/276508/pexels-photo-276508.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "style": "Modern",
+      "popularity": 5,
+      "tags": ["living room", "luxury", "elegant", "spacious", "bright"],
+      "dateAdded": "2024-06-07"
+    },
+    {
+      "id": 13,
+      "name": "Urban Living Room",
+      "image": "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "style": "Modern",
+      "popularity": 4,
+      "tags": ["living room", "urban", "modern", "stylish", "comfortable"],
+      "dateAdded": "2024-06-08"
+    },
+    {
+      "id": 14,
+      "name": "Eclectic Dining Room",
+      "image": "https://images.unsplash.com/photo-1617806118233-18e1de247200?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGluaW5nJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+      "style": "Vintage",
+      "popularity": 2,
+      "tags": ["dining room", "eclectic", "colorful", "artsy", "unique"],
+      "dateAdded": "2024-05-31"
+    },
+    {
+      "id": 15,
+      "name": "Industrial Home Office",
+      "image": "https://images.unsplash.com/photo-1463620910506-d0458143143e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW5kdXN0cmlhbCUyMGhvbWUlMjBvZmZpY2V8ZW58MHx8MHx8fDA%3D",
+      "style": "Modern",
+      "popularity": 3,
+      "tags": [
+        "home office",
+        "industrial",
+        "modern",
+        "functional",
+        "organized"
+      ],
+      "dateAdded": "2024-06-10"
+    },
+    {
+      "id": 16,
+      "name": "Retro Living Room",
+      "image": "https://images.unsplash.com/photo-1460776960860-7adc30a4e69d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dmludGFnZSUyMGxpdmluZyUyMHJvb218ZW58MHx8MHx8fDA%3D",
+      "style": "Vintage",
+      "popularity": 4,
+      "tags": ["living room", "retro", "classic", "nostalgic", "colorful"],
+      "dateAdded": "2024-06-22"
+    },
+    {
+      "id": 17,
+      "name": "Beach House Bedroom",
+      "image": "https://plus.unsplash.com/premium_photo-1682377521591-dd6fb21ec96e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YmVhY2glMjBob3VzZSUyMGJlZHJvb218ZW58MHx8MHx8fDA%3D",
+      "style": "Contemporary",
+      "popularity": 5,
+      "tags": ["bedroom", "beach house", "bright", "airy", "relaxing"],
+      "dateAdded": "2024-06-12"
+    },
+    {
+      "id": 18,
+      "name": "Farmhouse Kitchen",
+      "image": "https://images.unsplash.com/photo-1505165248533-c7d65ff76e21?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHZpbnRhZ2UlMjBraXRjaGVufGVufDB8fDB8fHww",
+      "style": "Vintage",
+      "popularity": 1,
+      "tags": ["kitchen", "farmhouse", "cozy", "warm", "functional"],
+      "dateAdded": "2024-06-26"
+    },
+    {
+      "id": 19,
+      "name": "Mediterranean Living Room",
+      "image": "https://plus.unsplash.com/premium_photo-1661886535582-abf766a88c65?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fG1vZGVybiUyMGxpdmluZyUyMHJvb218ZW58MHx8MHx8fDA%3D",
+      "style": "Modern",
+      "popularity": 4,
+      "tags": ["living room", "mediterranean", "warm", "spacious", "elegant"],
+      "dateAdded": "2024-04-07"
+    },
+    {
+      "id": 20,
+      "name": "Rustic Kitchen",
+      "image": "https://images.unsplash.com/photo-1595187139760-5cedf9ab5850?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cnVzdGljJTIwa2l0Y2hlbnxlbnwwfHwwfHx8MA%3D%3D",
+      "style": "Vintage",
+      "popularity": 5,
+      "tags": ["kitchen", "rustic", "cozy", "warm", "natural"],
+      "dateAdded": "2024-05-21"
+    },
+    {
+      "id": 21,
+      "name": "Modern Dining Room",
+      "image": "https://images.unsplash.com/photo-1519643381401-22c77e60520e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1vZGVybiUyMGRpbmluZyUyMHJvb218ZW58MHx8MHx8fDA%3D",
+      "style": "Modern",
+      "popularity": 3,
+      "tags": ["dining room", "modern", "sleek", "stylish", "contemporary"],
+      "dateAdded": "2024-05-16"
+    },
+    {
+      "id": 22,
+      "name": "Art Deco Bedroom",
+      "image": "https://plus.unsplash.com/premium_photo-1689609950057-8d01c2542fd1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGFydCUyMGRlY28lMjBiZWRyb29tfGVufDB8fDB8fHww",
+      "style": "Minimalist",
+      "popularity": 4,
+      "tags": ["bedroom", "art deco", "elegant", "stylish", "colorful"],
+      "dateAdded": "2024-06-12"
+    },
+    {
+      "id": 23,
+      "name": "Victorian Living Room",
+      "image": "https://images.pexels.com/photos/279719/pexels-photo-279719.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "style": "Modern",
+      "popularity": 5,
+      "tags": ["living room", "victorian", "classic", "elegant", "luxury"],
+      "dateAdded": "2024-06-18"
+    },
+    {
+      "id": 24,
+      "name": "French Country Kitchen",
+      "image": "https://images.unsplash.com/photo-1562874687-34420a9e8073?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGNvdW50cnklMjBraXRjaGVufGVufDB8fDB8fHww",
+      "style": "Contemporary",
+      "popularity": 1,
+      "tags": [
+        "kitchen",
+        "french country",
+        "elegant",
+        "warm",
+        "cozy",
+        "vintage"
+      ],
+      "dateAdded": "2024-06-31"
+    },
+    {
+      "id": 25,
+      "name": "Modern Home Office",
+      "image": "https://images.unsplash.com/photo-1495521939206-a217db9df264?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fG1vZGVybiUyMGhvbWUlMjBvZmZpY2V8ZW58MHx8MHx8fDA%3D",
+      "style": "Modern",
+      "popularity": 4,
+      "tags": [
+        "home office",
+        "modern",
+        "sleek",
+        "functional",
+        "organized",
+        "vintage"
+      ],
+      "dateAdded": "2024-06-27"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+/* Base styles */
+.home-container {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+}
+
+.home-content {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-basis: 35%;
+}
+
+.home-text-group {
+  margin-top: 200px;
+  color: white;
+}
+
+.home-heading.MuiTypography-root {
+  margin-bottom: 16px;
+  font-size: 2.6rem;
+}
+
+.home-text.MuiTypography-root {
+  color: white;
+  margin-bottom: 48px;
+  font-size: 1.2rem;
+}
+
+.home-button.MuiButton-root {
+  height: 60px;
+  width: 90%;
+  color: white;
+  background-color: #e8bc28;
+  font-size: 1rem;
+  border-radius: 30px;
+  padding: 14px 85px;
+  cursor: pointer;
+}
+
+.home-button.MuiButton-root:hover {
+  background-color: #f1df93;
+}
+
+.landing-pg-image {
+  display: flex;
+  flex-basis: 65%;
+  background-image: url("../../../assets/home_bg_image.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+}

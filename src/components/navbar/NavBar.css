@@ -1,0 +1,27 @@
+.navbar.MuiAppBar-root {
+  background-color: transparent;
+  box-shadow: none;
+  color: white;
+  background-color: black;
+  padding-top: 10px;
+}
+
+.logo {
+  height: 40px;
+  margin-right: 16px;
+}
+
+.menu-container {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+}
+
+.favorite-icon.MuiIconButton-root {
+  color: white;
+}
+
+.account-icon.MuiIconButton-root {
+  color: white;
+  margin-right: 3px;
+}

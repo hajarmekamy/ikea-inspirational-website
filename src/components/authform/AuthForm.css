@@ -1,0 +1,47 @@
+.auth-form-container {
+  width: 500px;
+  padding: 16px;
+}
+
+.auth-form-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.auth-form-header .auth-form-title {
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.auth-form-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 16px;
+}
+
+.auth-form-field {
+  margin-bottom: 16px;
+}
+
+.auth-form-button.MuiButton-root {
+  color: white;
+  background-color: #e8bc28;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-top: 24px;
+  margin-bottom: 19px;
+  padding: 10px 0;
+}
+
+.auth-form-button.MuiButton-root:hover {
+  background-color: #f1df93;
+}
+
+.auth-switch-form-text.MuiButton-root {
+  font-size: 0.8rem;
+  text-decoration: underline;
+  cursor: pointer;
+  text-transform: none;
+}

@@ -1,0 +1,37 @@
+.favourites-container {
+  display: flex;
+  flex-direction: row;
+  width: 90%;
+}
+
+.favourites-header {
+  margin: 200px 0 10px 170px;
+}
+
+.favourites-header .favourites-title {
+  font-size: 3rem;
+  font-weight: normal;
+  margin-bottom: 25px;
+}
+
+.favourites-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+}
+
+.favourites-item {
+  width: 400px;
+  height: 200px;
+  overflow: hidden;
+}
+
+.favourites-empty-box {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.favourites-empty-box-icon.MuiSvgIcon-root {
+  font-size: 120px;
+  color: #e8bc28;
+}
